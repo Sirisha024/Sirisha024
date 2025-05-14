@@ -23,21 +23,16 @@ Welcome to my GitHub profile! I'm a data engineer and software developer passion
 - **Database Management**: MySQL, MongoDB, Cosmos DB
 - **Data Visualization**: Power BI, Tableau
 - **Machine Learning**: scikit-learn, TensorFlow
+- **AI** : LLMS , HuggingFace , unsloth , LangChain , RAG , Lighting Ai 
 - **Project Management**: Agile, Jira, Azure DevOps
 
 ---
-
-## 📈 Featured Projects
-
-1. **Big Data Processing Pipeline** - Built an ETL pipeline for processing and analyzing large datasets using Spark and Hadoop.
-2. **Data Warehouse Implementation** - Designed and optimized a data warehouse in Snowflake to support business analytics.
-3. **NLP Sentiment Analysis** - Developed a sentiment analysis model using NLP techniques to analyze customer feedback.
 
 ---
 
 ## 📫 Let's Connect!
 
-- LinkedIn: www.linkedin.com/in/sai-sirisha-m
+- LinkedIn: www.linkedin.com/in/sai-sirisha-m5
 - Email: madishettysaisirisham@gmail.com
 
 Thanks for visiting my profile! 😊
